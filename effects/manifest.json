@@ -1,0 +1,257 @@
+[
+  {
+    "id": "primordial-contour-reveal",
+    "name": "Contour Reveal",
+    "file": "contour-reveal.fs"
+  },
+  {
+    "id": "primordial-glass-sweep",
+    "name": "Glass Sweep",
+    "file": "glass-sweep.fs"
+  },
+  {
+    "id": "primordial-orbital-halo",
+    "name": "Orbital Halo",
+    "file": "orbital-halo.fs"
+  },
+  {
+    "id": "primordial-prism-shutter",
+    "name": "Prism Shutter",
+    "file": "prism-shutter.fs"
+  },
+  {
+    "id": "primordial-split-slide",
+    "name": "Split Slide",
+    "file": "split-slide.fs"
+  },
+  {
+    "id": "primordial-iris-cut",
+    "name": "Iris Cut",
+    "file": "iris-cut.fs"
+  },
+  {
+    "id": "flora-ivy",
+    "name": "Procedural Ivy & Vine Wrap",
+    "file": "flora-ivy.fs"
+  },
+  {
+    "id": "flora-moss",
+    "name": "Moss Dispersion Field",
+    "file": "flora-moss.fs"
+  },
+  {
+    "id": "flora-bloom",
+    "name": "Flower Blooming Morph",
+    "file": "flora-bloom.fs"
+  },
+  {
+    "id": "flora-roots",
+    "name": "Root Fractal Extrusion",
+    "file": "flora-roots.fs"
+  },
+  {
+    "id": "flora-swarm",
+    "name": "Leaf Particle Swarm",
+    "file": "flora-swarm.fs"
+  },
+  {
+    "id": "flora-lotus",
+    "name": "Psy Lotus Mandala",
+    "file": "flora-lotus.fs"
+  },
+  {
+    "id": "flora-coral",
+    "name": "Turing Coral Labyrinth",
+    "file": "flora-coral.fs"
+  },
+  {
+    "id": "flora-engrave",
+    "name": "Botanical Engraving Draw-On",
+    "file": "flora-engrave.fs"
+  },
+  {
+    "id": "flora-watercolor",
+    "name": "Watercolor Wash Bloom",
+    "file": "flora-watercolor.fs"
+  },
+  {
+    "id": "flora-circuit",
+    "name": "Truchet Circuit Vine",
+    "file": "flora-circuit.fs"
+  },
+  {
+    "id": "fluid-vortex",
+    "name": "GPU Compute Particle Vortex",
+    "file": "fluid-vortex.fs"
+  },
+  {
+    "id": "fluid-mercury",
+    "name": "Liquid Mercury Melt & Dissolve",
+    "file": "fluid-mercury.fs"
+  },
+  {
+    "id": "fluid-magnet",
+    "name": "Magnetic Point-Grid Attraction",
+    "file": "fluid-magnet.fs"
+  },
+  {
+    "id": "fluid-ash",
+    "name": "Ash & Dust Wind Drift",
+    "file": "fluid-ash.fs"
+  },
+  {
+    "id": "fluid-ember",
+    "name": "Ember Combustion",
+    "file": "fluid-ember.fs"
+  },
+  {
+    "id": "fluid-shockwave",
+    "name": "Bass Shockwave Refraction",
+    "file": "fluid-shockwave.fs"
+  },
+  {
+    "id": "fluid-cymatic",
+    "name": "Cymatic Sand Plate",
+    "file": "fluid-cymatic.fs"
+  },
+  {
+    "id": "fluid-goldfill",
+    "name": "Liquid Gold Fill",
+    "file": "fluid-goldfill.fs"
+  },
+  {
+    "id": "fluid-soapfilm",
+    "name": "Soap-Film Iridescence",
+    "file": "fluid-soapfilm.fs"
+  },
+  {
+    "id": "fluid-frost",
+    "name": "Frosted Pane Clear-Run",
+    "file": "fluid-frost.fs"
+  },
+  {
+    "id": "metal-chrome",
+    "name": "Raymarching Chrome Extrusion",
+    "file": "metal-chrome.fs"
+  },
+  {
+    "id": "metal-glass",
+    "name": "Glass Refraction Bevels",
+    "file": "metal-glass.fs"
+  },
+  {
+    "id": "metal-holo",
+    "name": "Holographic Wireframe CAD",
+    "file": "metal-holo.fs"
+  },
+  {
+    "id": "metal-origami",
+    "name": "Origami Paper Fold",
+    "file": "metal-origami.fs"
+  },
+  {
+    "id": "metal-crystal",
+    "name": "Crystal Growth Matrix",
+    "file": "metal-crystal.fs"
+  },
+  {
+    "id": "metal-forge",
+    "name": "Forged Heat-Front Steel",
+    "file": "metal-forge.fs"
+  },
+  {
+    "id": "metal-pillars",
+    "name": "LED Pillar Extrusion",
+    "file": "metal-pillars.fs"
+  },
+  {
+    "id": "metal-anodized",
+    "name": "Anodized Brushed Sweep",
+    "file": "metal-anodized.fs"
+  },
+  {
+    "id": "metal-acrylic",
+    "name": "Acrylic Layer Stack",
+    "file": "metal-acrylic.fs"
+  },
+  {
+    "id": "metal-guilloche",
+    "name": "Guilloche Moire Mint",
+    "file": "metal-guilloche.fs"
+  },
+  {
+    "id": "glitch-datamosh",
+    "name": "Datamosh Block Displacement",
+    "file": "glitch-datamosh.fs"
+  },
+  {
+    "id": "glitch-rgb",
+    "name": "RGB Split Chromatic Aberration",
+    "file": "glitch-rgb.fs"
+  },
+  {
+    "id": "glitch-crt",
+    "name": "CRT Scanline Raster Distortion",
+    "file": "glitch-crt.fs"
+  },
+  {
+    "id": "glitch-vhs",
+    "name": "VHS Tape Tracking Tear",
+    "file": "glitch-vhs.fs"
+  },
+  {
+    "id": "glitch-static",
+    "name": "Digital Noise Static",
+    "file": "glitch-static.fs"
+  },
+  {
+    "id": "glitch-beatcut",
+    "name": "Beat-Cut Strobe Slicer",
+    "file": "glitch-beatcut.fs"
+  },
+  {
+    "id": "glitch-pixelsort",
+    "name": "Pixel-Sort Alpha Streaks",
+    "file": "glitch-pixelsort.fs"
+  },
+  {
+    "id": "glitch-ledwall",
+    "name": "LED Pixel-Wall Build",
+    "file": "glitch-ledwall.fs"
+  },
+  {
+    "id": "glitch-slicestagger",
+    "name": "Slice Stagger Settle",
+    "file": "glitch-slicestagger.fs"
+  },
+  {
+    "id": "glitch-halftone",
+    "name": "Bayer Halftone Decay",
+    "file": "glitch-halftone.fs"
+  },
+  {
+    "id": "sting-flash-wipe",
+    "name": "Speed-Ramp Flash Wipe",
+    "file": "sting-flash-wipe.fs"
+  },
+  {
+    "id": "sting-iris",
+    "name": "Logo Mask Iris Collapse",
+    "file": "sting-iris.fs"
+  },
+  {
+    "id": "sting-portal",
+    "name": "Portal Vortex Tunnel",
+    "file": "sting-portal.fs"
+  },
+  {
+    "id": "sting-laser",
+    "name": "Neon Laser Cutter",
+    "file": "sting-laser.fs"
+  },
+  {
+    "id": "sting-slam",
+    "name": "Typographic Kinetic Slam",
+    "file": "sting-slam.fs"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "name": "primordial-stinger-studio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Standalone VJ stinger designer and ISF effect collection",
+  "scripts": {
+    "start": "node serve.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
